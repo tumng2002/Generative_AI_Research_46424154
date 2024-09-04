@@ -4,9 +4,9 @@
 ├── Literature_Review/
 │   └── journal_article1.docx
 ├── Quantitative_Analysis/
-│   ├── abc.py
-│   ├── cde.csv
-│   └── efg.xlsx
+│   ├── analysis_script.py
+│   ├── output_1.csv
+│   └── output_2.xlsx
 ├── Qualitative_Analysis/
 │   └── 15_interview_txcript.docx
 ├── Drafts_and_Reports/
