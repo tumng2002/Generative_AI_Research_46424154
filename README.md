@@ -1,4 +1,5 @@
 # Generative_AI_Research_46424154
+```
 .
 ├── Literature_Review/
 │   └── journal_article1.docx
@@ -12,3 +13,4 @@
 │   └── conference_paper.pdf
 └── Additional_Materials/
     └── photo.png
+```
