@@ -21,10 +21,11 @@ All associated literature review is within `Literature_Review` folder. Quantitat
 
 ## Collaborating
 To collaborate on this project, follow these steps:
+    `
     1. Clone the git to your local machine
     2. Create a branch with your github username in the branch name and what task you are completing
     3. Make your changes
     4. Create a pull request for your branch stating what you have done
     5. Undergo moderation before merging to main.
-
+    `
 
